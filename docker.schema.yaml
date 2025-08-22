@@ -1,0 +1,23 @@
+version: 0.1.0
+vendor: opencommand
+name: docker
+description:
+    - docker [OPTIONS]
+options:
+    version:
+        type: bool
+        required: true
+commands:
+    rm:
+        description:
+            - rm is a sub command of docker
+        options:
+            image:
+                type: str
+                required: true
+                description:
+                    - image is required
+    run: {}
+definitions:
+    IP:
+        type: str

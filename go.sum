@@ -1,0 +1,6 @@
+github.com/opencommand/schema v0.0.0-20250822133618-ec5bbe6ecddf h1:Z+3sgmX1dBQ0lFIQI0cjVw7O07R6yrjhgSrCtBmx0mc=
+github.com/opencommand/schema v0.0.0-20250822133618-ec5bbe6ecddf/go.mod h1:OgW3ezFdSuIZQAQE6Oc8cGnQEP4pOBooGNBrT8iXmGs=
+gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405 h1:yhCVgyC4o1eVCa2tZl7eS0r+SDo693bJlVdllGtEeKM=
+gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405/go.mod h1:Co6ibVJAznAaIkqp8huTwlJQCZ016jof/cbN4VW5Yz0=
+gopkg.in/yaml.v3 v3.0.1 h1:fxVm/GzAzEWqLHuvctI91KS9hhNmmWOoWu0XTYJS7CA=
+gopkg.in/yaml.v3 v3.0.1/go.mod h1:K4uyk7z7BCEPqu6E+C64Yfv1cQ7kz7rIZviUmN+EgEM=
